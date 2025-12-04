@@ -24,6 +24,7 @@ This guide will help you set up a personal budget tracker that uses an iPhone Sh
     *   **Ask for Input**: Ask for `Text` with prompt "What did you buy?" (Rename variable to `Item`).
     *   **Ask for Input**: Ask for `Number` with prompt "How much?" (Rename variable to `Amount`).
     *   **Choose from Menu**: Prompt "Category?", Options: "Food", "Transport", "Bills", "Entertainment", etc. (Save result to variable `Category`).
+    *   **Ask for Input**: Ask for `Text` with prompt "Notes?" (Rename variable to `Notes`).
     *   **URL**: Paste your **Web App URL** from step 1.
     *   **Get Contents of URL**:
         *   Expand the arrow (>) next to the URL action.
@@ -34,6 +35,7 @@ This guide will help you set up a personal budget tracker that uses an iPhone Sh
             *   `item`: (Select `Item` variable)
             *   `amount`: (Select `Amount` variable)
             *   `category`: (Select `Category` variable)
+            *   `notes`: (Select `Notes` variable)
             *   `date`: (Current Date)
     *   **Show Notification**: "Expense added!" (Optional)
 
