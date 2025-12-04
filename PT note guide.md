@@ -1,0 +1,295 @@
+# Decision tree
+* When input eval on the top of note, use Part A structure.
+* When input DC/PN on the top of note, use Part B structure.
+
+## A. Evaluation
+
+**Assessment:** The assessment should be a single, concise paragraph that synthesizes the key findings. It must follow this structure:
+1. Start with the patient's age, gender, and primary diagnosis or complaint.
+2. Summarize the most significant subjective reports (like pain levels or functional limitations).
+3. Summarize the key objective impairments (e.g., limited range of motion, decreased strength, positive special tests, and functional outcome measure scores).
+4. Conclude with a prognostic statement about their potential for rehabilitation.
+
+**Goals** They must be functional, measurable, and patient-specific based on the evaluation notes.
+
+**Impairment-level or simple functional Goals:**
+- [List 3-4 impairment-level or simple functional goals here. Example: Patient will report a decrease in pain from 7/10 to 3/10 during stair negotiation.]
+- [Goal 2]
+- [Goal 3]
+
+**activity-level or participation-level Goals:**
+- [List 2-3 activity-level or participation-level goals here. Example: Patient will be able to walk 1 mile on the treadmill without pain to resume their gym routine.]
+- [Goal 2]
+- [Goal 3]
+
+### Assessment paragraph examples
+
+#### Neck/Shoulder
+Pt is a [age] Yrs [gender] with diagnosis of R shoulder pain. Pt has been working for heavy duty over 10 years and R shoulder pain got worse for 6 months ago. In evaluation, pt demo decreased R shoulder AROM, impaired R GH muscle strength, decreased T/S joint mobility, kyphosis posture, tenderness on rotator cuff, and limited ADLs. In addition, pt shows positive on impingement test and empty can test. The pt’s QuickDASH is 75%, showing impaired ADLs/IADLs with UE. Pt will benefit from skilled physical therapy service to address above impairments and dysfunction to return to PLOF and work without difficulties.
+
+#### Back/lower extremity
+The [age] Yrs [gender] patient presents to the clinic with a medical history of [input from note] Their chief complaint of [input from note] has significantly limited their ability to participate in [input from note] activities. The patient's physical limitations, including [input from note] overall weakness, decreased 5xSTS performance, impaired single leg stance time, and decreased ambulation distance, further contribute to their restrictions. The 5xSTS is [input from note] sec which shows impaired functional mobility and increased risk for falling. The pt's 6MWT is [input from note] ft which is lower than age-matched norm and shows decreased functional endurance. The pt's LEFS is ***/80 showing limited participation in ADLs/IADLs. *** Skilled PT is essential for the pt to improve their ***functional mobility, reduce fall risk, and enhance gait safety?
+
+If the test was not performed, remove the info from the assessment paragraph.
+
+### Goals
+If eval was indicated in the note, produce 4-7 goals base on below list.
+
+#### High priority goals list
+* Patient will demonstrate ability to tolerated 6MWT distance for 660 ft to demonstrate an improvement in ambulation endurance.
+* Patient will demonstrate increased 6MWT distance by at least 100 ft from [input from note] ft to [previous number adding 100 ] ft to demonstrate a minimal clinically significant improvement in ambulation endurance.
+* Patient will demonstrate improved time on the 5xSTS from [input from note] seconds to 15 seconds to promote clinically change in functional mobility and decrease risk for falling.
+* Patient will increase her ability to achieve and maintain pain-free range of motion in the shoulder joint, promoting ease of movement in activities such as reaching, lifting, and self-care.
+* Patient will increase her ability to strengthen the muscles surrounding the shoulder, particularly the rotator cuff (4-5/5), fostering enhanced joint stability and support for daily tasks and functional activities.
+* Patient will achieve R/L shoulder flexion of 120 degrees for functional range
+* Patient will achieve R/L shoulder abduction of 130 degrees for functional range
+* Patient will demonstrate independence in home program for support of progression
+* Patient will report the worst pain in the past week of [half of the number in the note and round it up to higher number]/10 demonstrating a reduction of overall pain
+* Patient will show a significant change in QuickDASH patient reported outcome tool to demonstrate subjective improvement from [input from note] % to [previous number minus 12 and round up down to lower number] %
+* Patient will show a significant change in NDI patient reported outcome tool to demonstrate subjective improvement from [input from note] % to [previous number minus 10 and round up down to lower number] %
+
+#### General goals list
+
+**Ankle**
+* Patient will be able to increase R ankle DF to 5 deg to perform improved gait pattern during ambulation with decreased pain < 4/10.
+* Patient will be able to increase R ankle DF to 10 deg to perform normal gait pattern during ambulation with decreased pain < 2/10.
+* Patient will demonstrate improved SLS on ***LE to >15 sec to be able to step off curbs, in/out of bath tub easily
+
+**Elbow**
+* Patient will be able to increase B UE strength to 3+/5 to lift up 2# weight without difficulty.
+* Patient will be able to increase B UE strength to 4/5 to lift up 5# weight without difficulty in ADLs.
+
+**Functional Activity**
+* Patient will be able to independently perform bed mobility and sit-to-stand transfers with minimal assistance.
+* Patient will be able to use a walker or crutches to navigate to/from the bathroom and short household distances.
+* Patient will be able to tolerate 10-15 minutes of low-impact activities (e.g., walking, seated exercises) without exacerbating pain.
+* Patient will be able to return to recreational walking for 30 minutes without pain or fatigue.
+* Patient will be able to independently perform household activities (e.g., vacuuming, mopping) for 30 minutes.
+* Patient will be able to lift and carry objects up to 20 lbs. safely and without pain.
+* Patient will be able to resume recreational activities, such as cycling, swimming, or light hiking, for 20-30 minutes.
+* Patient will be able to safely perform household tasks such as light cleaning, carrying objects, and standing for 15 minutes.
+* Patient will be able to reach overhead to place and remove objects from high shelves independently.
+* Patient will be able to independently perform household tasks, such as vacuuming, sweeping, and lifting light objects.
+* Patient will be able to return to work tasks requiring frequent overhead reaching or lifting up to 10 lbs. safely.
+* Patient will be able to perform repetitive overhead activities, such as painting or stocking shelves, for 20-30 minutes.
+* Patient will be able to independently care for hair and hygiene tasks, including washing and combing.
+* Patient will be able to return to work duties requiring 4+ hours of overhead tasks or light lifting.
+* Patient will be able to achieve pain-free participation in hobbies such as gardening, woodworking, or playing instruments.
+* Patient will be able to independently perform dressing tasks (donning/doffing shirts) using the involved arm minimally.
+* Patient will be able to use the involved arm to assist in eating tasks (e.g., cutting food, drinking) with less compensation.
+* Patient will be able to safely return to light recreational activities like cycling, swimming, or golf.
+* Patient will be able to lift and carry objects weighing up to 20 lbs. without pain or postural compensations.
+* Patient will be able to ambulate 25 feet on uneven surfaces (e.g., grass) using a cane independently.
+* Patient will be able to improve gait speed to 0.8 meters/second for household safety.
+
+**Functional Outcome Measures**
+* Patient will improve Berg Balance Test score by ***8 points (MDC for older adults) ***5 points (MDC for PD) ***5 points (MDC for chronic stroke) to demonstrate improved balance and decreased risk for falls.
+* Patient will improve TUG score by 2.9 seconds (MDC), and/or reduce difference of TUG vs TUG dual task to less than 4.5 seconds to demonstrate improved safety with ambulation and decreased risk for falls.
+* Patient will improve FGA score by 6 points to improve safe community ambulation on varying surfaces and/or with varying light.
+* Patient will be able to ambulate for *** feet safely during 6 minute walk test.
+* Patient will be able to maintain balance for 30 sec on all stages of MCTSIB to improve safe community ambulation on varying surfaces and/or with varying light.
+* Patient will demonstrate less than 3/6 on lateral step-down test for sufficient strength and motor control for stair navigation.
+* Patient will demonstrate improvement on 5x sit to stand of at least 2.3 seconds to meet MCID and decrease risk of falls.
+* Patient to demonstrate improved 30 sec STS time by >2 reps and/or improved 5TSTS >2.3 sec to demonstrate improved functional strength for sit to stand transfers and stairs.
+* Patient will improve 2 minute walk test by at least 12.2 meters (*** meters or more) to meet MDC and decrease risk of falls.
+* Patient will improve score on 6MWT by ***191 feet (MDC for older adults) ***269 feet (MDC for PD) ***120 feet or 13% increase (MDC for stroke) to demonstrate improved endurance for community ambulation.
+* Patient will improve TUG by at least 3.4 seconds (*** or less) to meet MCID and decrease risk of falls.
+* Patient will demonstrate increase in SPPB score from *** to *** to demonstrate functional change.
+* Patient to improve Timed up and down stairs test to <9 sec to demonstrate improved endurance and LE strength
+* Patient will be able to walk for *** minutes without pain for household and community ambulation.
+* Patient will be able to ascend and descend stairs reciprocally without pain to improve safety within home.
+* Patient will be able to ascend/descend at least *** flight(s) of stairs reciprocally without assistive device or hand held support to improve community ambulation tolerance to reduce activity limitations and participation restrictions
+* Patient will improve miniBEST score by at least 4 points to meet MCID for reduction in fall risk
+
+**Hip**
+* Patient will be able to increase B LE strength to 3+/5 to ambulate over 500ft with decreased pain < 4/10.
+* Patient will be able to increase B LE strength > 3+/5 to perform a step up/down with decreased pain < 4/10.
+* Patient will be able to increase B LE strength to 4/5 to ambulate over 1000ft with decreased pain < 2/10.
+* Patient will be able to increase B LE strength > 4/5 to perform 10 step stairs negotiation with decreased pain < 2/10.
+* Patient will demonstrate improved muscle strength *** hip to at least 4-4+/5 to be able to ambulate w/o AD in the community with pain
+
+**Home Exercise Program**
+* Patient will be able to tolerate participation in home exercise program without adverse reaction to promote self management of condition
+* Patient will be able to tolerate 30 minutes of physical activity without adverse reaction in order to comply with American Heart Association Exercise Guidelines
+
+**Knee**
+* Patient will be able to increase knee ROM in flexion to 110 deg to perform squat with decreased pain < 4/10.
+* Patient will be able to increase knee flexion to 120 deg to perform squat with decreased pain < 2/10
+* Patient will demonstrate improved muscle strength by*** grade to be able to negotiate stairs with pain decreased to Lumbar Patient will be able to increase 20% lumbar AROM in extension to perform overhead reaching with decreased pain < 5/10
+* Patient will be able to increase B LE endurance to perform prolonged standing over 1 hrs. at work with decreased pain < 2/10
+* Patient will be able to increase B LE endurance to perform prolonged standing over 30 min at work without decreased pain < 4/10
+
+**Lymphedema**
+* Patient will recognize and verbalize lymphedema precautions and signs/symptoms of infection
+* Patient will require no more than moderate cueing to don bandages
+* Patient will be independent and compliant with lymphedema exercises with bandages donned
+* Patient will be able to verbalize long term management edema strategies including MLD, compression bandaging, and compression garments
+* Patient will perform self-manual lymphatic drainage with minimal cues from therapist
+* Patient will achieve a plateau in edema reduction to demonstrate readiness for compression garments
+* Patient will be independent with donning/doffing compression garment to promote self-management of edema after discharge.
+* Patient will be independent with proper skin hygiene measures
+* Patient will be independent with self-manual lymphatic drainage to promote self management of edema after discharge.
+* Patient and/or caregiver will be independent with HEP and lymphedema management to help prevent edema relapse and reduce risk of infection.
+* Patient will be independent in upgraded home exercise program to maintain long-term edema management.
+* Patient will be independent with initial HEP to increase mobility and reduce edema BLE
+* Patient will demonstrate decrease in girth BLE by at least *** cms
+* Patient will be able to verbalize understanding of lymph precautions
+* Patient will demonstrate decrease in girth R ankle /calf by >*** cms
+* Patient will be fitted with appropriate compression garment/device BLE
+* Patient will have improved score on LLIS by>7 points
+* Patient will be independent with final HEP and donning/doffing of compression garments
+
+**Neck**
+* Patient will be able to increase B neck rotation to 60 degrees to drive without difficulty with less pain < 4/10
+* Patient will be able to sleep throughout the night without sleeping interruption due to neck pain.
+* Patient will be able to increase B neck rotation to 75 degrees to drive without difficulty with less pain < 2/10
+* Patient will be able to maintain upright posture in sitting during therapy session with minimal cues.
+* Patient will be able to maintain upright posture in sitting during therapy session without cues.
+
+**Oncology - Breast Cancer**
+* Patient will improve *** shoulder flexion AROM to at least *** deg for better ability to complete overhead tasks.
+* Patient will improve *** shoulder abduction AROM to at least *** deg for better ability to don/doff clothing.
+* Patient will improve *** shoulder ER to at least *** in order to participate in radiation therapy.
+* Patient will be independent with initial HEP to increase mobility and reduce edema
+* Patient will demonstrate decreased edema R breast with less Peau d'orange appearance
+* Patient will demonstrate improved *** shoulder ROM by *** deg with ***% less pain *** breast/upper arm
+* Patient will demonstrate decrease in girth *** UE by > *** cms
+* Patient will be able to verbalize understanding of lymph precautions
+* Patient will be fitted with appropriate compression garment/device
+* Patient will report return to PLOF *** UE with pain * Patient will demonstrate improved *** shoulder ROM by *** deg with ***% less pain *** breast/upper arm
+* Patient will demonstrate improved R shoulder ***strength by *** grade with ***% less difficulty and pain using the arm for her usual daily activities
+* Patient will have improved score on LLIS by > 7 points
+
+**Oncology - General Cancer**
+* Patient will be independent with home program to maximize benefits of PT.
+* Patient will verbalize understanding of ACSM exercise guidelines for those with cancer.
+* Patient will complete daily walking program of at least *** minutes per day to comply with ACSM exercise guidelines and improve cardiovascular health.
+* Patient will complete strength training at least *** times per week to comply with ACSM exercise guidelines and improve general strength.
+* Patient will demonstrate increase in grip strength from *** on right and *** on left to *** to demonstrate improvement in mortality.
+
+**Oncology - Head and Neck Cancer**
+* Patient will be instructed in lymphedema self-care (i.e.: manual lymphatic drainage, compression bandaging, home exercise program, garments/pneumatic pump if appropriate) in order to maintain reduction achieved in therapy.
+* Patient to demonstrate independence in diaphragmatic breathing in order to stimulate the deep lymphatic system prior to manual lymphatic drainage to optimize volume decrease and prevent secondary complications of lymphedema.
+* Patient will be independent with all aspects of lymphedema self-care in order to maintain reduction achieved in therapy.
+* Patient will demonstrate at least a 2% change in total neck composite score in order to demonstrate functional improvement in swelling.
+* Patient will demonstrate improved *** shoulder *** to help with daily activities and reaching overhead.
+* Patient will improve deep cervical flexor endurance to at least *** seconds to provide better head and neck support and improve posture.
+
+**Patient-Report Outcome Measures**
+* Patient will demonstrate improvement on QuickDASH of at least 15pts to meet MCID and improve QOL.
+* Patient will demonstrate improvement on Modified Oswestry of at least 10 percent to meet MCID and improve QOL.
+* Patient will demonstrate improvement on Neck Disability Index of at least 10 percent to meet MCID and improve QOL.
+* Patient will demonstrate improvement in LEFS of at least 9 points to meet MCID and improve QOL.
+* Patient will demonstrate improvement on WOMAC of at least 15 pts to meet MCID and improve QOL
+* Patient will demonstrate improvement on LLIS of at least 7 points (score of ***/72) to meet MCID and improve QOL.
+* Patient will demonstrate improved FAAM score by 8% ADL subscore and 9% sports subscale to meet MCID for improved functional mobility.
+* Patient will demonstrate improved KOOS-ADL subscore by 8 points to improve functional mobility.
+* Patient will improve DHI score by 18 points to demonstrate minimal clinically significant change for improvement in dizziness.
+* Patient will demonstrate 15% improved confidence or > 60% on ABC scale to demonstrate decreased fear of falling and reduce risk of falls.
+* Patient will demonstrate improvement on Rivermead Concussion Scale by 5 points RPQ-3 and RPQ-13 each to demonstrate improvement in quality of life.
+* Patient will demonstrate improvement of *** on the University of Washington Quality of Life Questionnaire to demonstrate functional improvement.
+* Patient will improve score on UEFI by at least 9 points to meet MCID and improve QOL.
+
+**Peds - Developmental**
+* Patient will be able to tolerate 90 minutes of tummy time t/o the day to Increase head and trunk musculature strength and endurance
+* Patient will roll to right and left with rotation and head righting
+* Patient will pivot in prone to right and left to optimize ability to explore environment
+* Patient will transition in/out of sitting over right and left LE to allow patient to play in sitting without assist for age appropriate play skills
+* Patient will creep in 4pt with reciprocal pattern >10 ft. to allow patient to explore environment and demonstrate age appropriate gross motor skills
+* Patient will pull to stand over right and left LE through ½ kneel to facilitate wt bearing in LEs in preparation for ambulation and to facilitate play in stand
+* Patient will cruise to right and left with rotation in preparation for ambulation and to allow play and mobility in stand
+* Patient will climb on/off adult size furniture without assist
+* Patient will complete floor <>stand without pulling up on furniture
+* Patient will ascend/descend stairs step over step without use of HR
+* Patient will kick ball with right and left LE and hit target 3ft away and hit target 2:3 trials
+* Parent independent with developmental activity program including ... to facilitate carryover at home
+
+**Peds - Toe Walking**
+* Improve ankle DF ROM to > 10 deg with knee extended for optimal ROM for ambulation and stair negotiation
+* Perform ... consecutive SL heel raises without compensatory movement, pain for appropriate PF strength for push off during gait
+* Patient will demonstrate heel walking x ... ft, no loss of balance or c/o fatigue for adequate DF strength for control during gait
+* Patient will maintain single leg stance x ... sec for stability and balance during ADLs
+* Parent report patient ambulating with heel strike during gait x...% of time walking
+
+**Peds - Torticollis/Plagiocephaly**
+* Improve cervical rotation AROM within 5 degrees of unaffected side to allow for full ROM for tracking and gross motor skills
+* Improve cervical lateral flexion AROM within 5 degrees of unaffected side to allow for full ROM for tracking and gross motor skills
+* Patient will lift and maintain head above midline in suspended side-lying equal right and left to optimize cervical strength and demonstrate more symmetrical head shape as seen by CVAI <3.6 for cosmesis and symmetrical functional gross motor skills
+* Demonstrate more symmetrical head shape as seen by CVAI <3.6 for cosmesis and symmetrical gross motor skills
+* Caregiver independent in handling, facilitation of activity, stretches to allow for carryover at home
+* Maintain head in midline in supported sitting for >30 seconds in supported sit to demonstrate increased antigravity head control
+
+**Pelvic Health**
+* Patient will be able to report voiding every 2-4 hours in order to decrease urinary frequency
+* Patient will be able to report voiding ***x/night or less in order to improve sleep
+* Patient will be able to report urinary leakage ***x/*** with coughing, sneezing, or laughing in order to improve quality of life
+* Patient will be able to report urinary leakage ***x/*** with urinary urgency in order to improve quality of life
+* Patient will be able to increase pelvic floor muscle strength by *** grade in order to improve urinary incontinence
+* Patient will be able to tolerate a digital and/or speculum exam without pain in order to tolerate a gynecological exam
+* Patient will be able to have a bowel movement at least ***x/week without straining in order to demonstrate normal bowel function
+* Patient will be able to demonstrate normal bear down technique in order to improve emptying of bowels
+* Patient will be able to report at least a 45 point improvement on the PFDI-20 in order to improve quality of life
+
+**Return to Sports**
+* Patient will demonstrate 90% or greater quadriceps index compared to non-involved side to maximize safety in return to sport.
+* Patient will demonstrate 90% or greater hamstrings index compared to non-involved side to maximize safety in return to sport.
+* Patient will perform within 90% of non-involved side in LE/core strength testing battery (side plank endurance, elevated single leg gluteal bridge endurance, calf raise rep max, shuttle press rep max) to maximize safety in return to sport.
+* Patient will perform within 85%-90% or greater of non-involved side's performance in hop testing (6m timed hop, crossover hop for distance, single leg hop for distance, and triple single leg hop for distance) to maximize safety in return to sport.
+* Patient will achieve 90% or greater of contralateral side on Y balance testing to demonstrate appropriate single leg balance for return to sport.
+* Patient will demonstrate pain free running without consequent effusion for at least two levels of Adams et al 2016 running progression to maximize safety in return to sport.
+* Patient will demonstrate >90% confidence in return to sport via ACL-RSI to maximize safety in return to sport.
+* Patient will demonstrate ability to stand on ***LE for *** sec to optimize strength and balance to allow for safe participation in age appropriate play
+* Patient will demonstrate ability to hop on ***LE for *** consecutive hops to optimize strength and balance to allow for safe participation in age appropriate play
+* Patient will demonstrate ability to complete 4x10 m shuttle run in ***sec to demonstrate age appropriate endurance and agility
+* Patient will improve DF lunge test to >13 cm (males norm)*** and >12cm (females norm)*** to demonstrate normative data for athletes.
+
+**Shoulder**
+* Patient will be able to increase GH AROM in flexion to 120 deg to perform OH reaching with less pain < 4/10
+* Patient will be able to increase GH ROM in flexion to 150 deg to perform OH reaching with less pain < 2/10
+
+**Total Joint Replacement**
+* Patient will demonstrate 0 degrees of knee extension on the involved side to promote normal movement patterns throughout ADLs.
+* Patient will demonstrate at least 110 degrees of knee flexion ROM on the involved side in order to navigate stairs with minimal compensations.
+* Patient will perform 10 repetitions of SLR without lag on the involved side to demonstrate improved quadriceps neuromuscular control.
+* Patient will perform 10 repetitions of controlled sit to stand from chair height while reporting ***/10 pain on the involved knee.
+* Patient will demonstrate ability to ascend and descend 1 flight of stairs with *** gait pattern and *** UE support while reports ***/10 pain on the involved side in order to reduce activity limitations.
+* Patient will be able to demonstrate at least *** degrees of active hip flexion ROM on the involved side to improve performance of functional activities.
+* Patient will be able to demonstrate at least *** degrees of active hip external rotation ROM of involved side to improve performance of functional activities.
+* Patient will complete *** repetitions of side lying hip abduction in order to demonstrate improved gluteus medius performance.
+* Patient will complete at least ** repetitions of DL glute bridge without compensation in order to demonstrate improved posterior chain strength.
+* Patient will ambulate for at least *** minutes on level and uneven surfaces without AD while reporting less than ***/10 pain to demonstrate improved tolerance to community ambulation.
+* Patient will tolerate Single leg balance with eyes open for at least *** seconds with less than *** errors to demonstrate improved single leg stability and balance.
+
+**Vestibular**
+* Patient will be able to bend over and/or look down without dizziness to improve safe performance of ADL.
+* Patient will be able to look up without dizziness to improve safe performance of ADL.
+* Patient will be able to perform bed mobility symptom free to improve safe performance of ADL.
+* Patient will be able to maintain standing balance on a firm surface with eyes open for 60 seconds without upper extremity support.
+* Patient will be able to stand on a foam pad with eyes closed for 20 seconds with minimal sway.
+* Patient will be able to perform tandem stance (heel-to-toe) for 15 seconds with eyes open and no loss of balance.
+* Patient will be able to walk 20 feet while turning the head left and right at a moderate speed without dizziness.
+* Patient will be able to perform sit-to-stand transitions 5 times consecutively without dizziness or balance loss.
+* Patient will be able to safely perform 5 steps forward and backward on a flat surface while maintaining balance.
+* Patient will be able to perform VOR x1 exercises (head movement with fixed target) for 1 minute without increased dizziness.
+* Patient will be able to perform VOR x2 exercises (head and target moving) for 30 seconds with minimal symptoms.
+
+
+## B. progress or discharge note
+
+The user will provide the subjective and objective findings from the current visit, and may include information from the initial evaluation for comparison.
+
+Structure your response in the following specific format, using Markdown for bolding:
+
+**Assessment:** This section should be a single, concise paragraph.
+1. Start by stating this is a progress/re-assessment/discharge visit for the patient's condition.
+2. Summarize the patient's subjective report of progress, including changes in pain and function.
+3. Compare the current key objective findings (e.g., ROM, strength, outcome measure scores) to the previous findings to demonstrate progress, lack of progress, or that goals have been met.
+4. Conclude with a statement summarizing the overall progress made and based on top note of input to phrase plan, DC for discharge with HEP and PN for continue therapy.
+
+**Progress Towards Goals:**
+- Review the goals established at the initial evaluation (or previous progress note).
+- For each goal, state whether it has been "Met," "Partially Met," or "Not Met."
+- Provide a brief justification for the status based on the note's data. (e.g., "Goal of 120° knee flexion: Met, patient achieved 125° today.")
+
+### Progress note example
+The pt achieved ***/*** STGs and ***/*** LTGs. The 6MWT distance increased from *** ft to *** ft showing increased ambulation distance and functional endurance. The 5xSTS decreased from *** seconds to *** seconds indicating improved functional mobility The 10MWT SSV improved from 0.*** m/s to 0.*** m/s and their FV improved from *** m/s to *** m/s showing increased safety with household and community ambulation. Their BBS scored from **/56 to **/56, showing a decreased risk for falling. The pt is still limited by their decreased ambulation endurance, balance deficits, and reduced BLE strength. Continued participation in PT is recommended for the pt to return to their prior level of function.
