@@ -14,16 +14,22 @@ function doPost(e) {
         }
 
         // 2. Parse the incoming JSON data
-        var data = JSON.parse(e.postData.contents);
+        var data;
+        try {
+            data = JSON.parse(e.postData.contents);
+        } catch (parseError) {
+            // Fallback if data is not JSON (e.g. form data)
+            data = e.parameter;
+        }
 
         // 3. Prepare the row data
         // Expecting JSON: { "date": "YYYY-MM-DD", "item": "Coffee", "category": "Food", "amount": 5.00, "notes": "Starbucks" }
         var row = [
             data.date || new Date(), // Use provided date or current timestamp
-            data.item,
-            data.category,
-            data.amount,
-            data.notes
+            data.item || "Unknown Item",
+            data.category || "Uncategorized",
+            data.amount || 0,
+            data.notes || ""
         ];
 
         // 4. Append to the sheet
@@ -36,4 +42,8 @@ function doPost(e) {
         // Return error
         return ContentService.createTextOutput(JSON.stringify({ 'result': 'error', 'error': error.toString() })).setMimeType(ContentService.MimeType.JSON);
     }
+}
+
+function doGet(e) {
+    return ContentService.createTextOutput(JSON.stringify({ 'status': 'online', 'message': 'The script is deployed and accessible!' })).setMimeType(ContentService.MimeType.JSON);
 }
